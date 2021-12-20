@@ -13,6 +13,7 @@
 		88EC52F627710BD800F999D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88EC52F427710BD800F999D9 /* Main.storyboard */; };
 		88EC52F827710BDC00F999D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88EC52F727710BDC00F999D9 /* Assets.xcassets */; };
 		88EC52FB27710BDC00F999D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88EC52F927710BDC00F999D9 /* LaunchScreen.storyboard */; };
+		88EC530327710BE800F999D9 /* Inceptionv3 (1).mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 88EC530227710BE800F999D9 /* Inceptionv3 (1).mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		88EC52F727710BDC00F999D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88EC52FA27710BDC00F999D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88EC52FC27710BDC00F999D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88EC530227710BE800F999D9 /* Inceptionv3 (1).mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Inceptionv3 (1).mlmodel"; path = "../../../../../../../Desktop/Inceptionv3 (1).mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				88EC52F727710BDC00F999D9 /* Assets.xcassets */,
 				88EC52F927710BDC00F999D9 /* LaunchScreen.storyboard */,
 				88EC52FC27710BDC00F999D9 /* Info.plist */,
+				88EC530227710BE800F999D9 /* Inceptionv3 (1).mlmodel */,
 			);
 			path = MLML_HOTdogorNOT;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				88EC52F327710BD800F999D9 /* ViewController.swift in Sources */,
 				88EC52EF27710BD800F999D9 /* AppDelegate.swift in Sources */,
 				88EC52F127710BD800F999D9 /* SceneDelegate.swift in Sources */,
+				88EC530327710BE800F999D9 /* Inceptionv3 (1).mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
